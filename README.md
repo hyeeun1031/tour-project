@@ -1,7 +1,7 @@
 # ✈️고부가가치 장거리 관광객(신흥시장)의 재방문 유도를 위한 전략 수립
-> 이 프로젝트는 방한 외래관광객 데이터를 기반으로, 장거리 고지출 신흥시장(미주·유럽 등) 관광객을 타깃으로 한 관광 전략을 도출하기 위한 분석입니다. <br>
-> 관광 활동, 만족도, 소비 행태 등 다양한 지표를 바탕으로 군집분석 및 연관규칙 분석을 수행하고 <br>
-> 궁극적으로는 재방문 유도 및 지역 분산을 고려한 전략 수립에 목적을 둡니다.
+> ${\textsf{\color{black}이 프로젝트는 방한 외래관광객 데이터를 기반으로, 장거리 고지출 신흥시장(미주·유럽 등) 관광객을 타깃으로 한 관광 전략을 도출하기 위한 분석입니다.}}$ <br>
+> ${\textsf{\color{black}관광 활동, 만족도, 소비 행태 등 다양한 지표를 바탕으로 군집분석 및 연관규칙 분석을 수행하고}}$ <br>
+> ${\textsf{\color{black}궁극적으로는 재방문 유도 및 지역 분산을 고려한 전략 수립에 목적을 둡니다.}}$
 ---
 
 ## 📦 데이터셋 출처
@@ -19,9 +19,8 @@
 ---
 
 ## 🧾 프로젝트 기록 (노션)
-> ${\textsf{\color{black}인코리아}}$ <br>
-> 공모전 전체 로그: https://boatneck-cormorant-f6f.notion.site/2098a77d96d9801fbe82c9af9bc27840?source=copy_link
-> 하루 브리핑: https://boatneck-cormorant-f6f.notion.site/2158a77d96d980f09ab1c7d5ae6fdbc2?source=copy_link
+> 공모전 전체 로그: https://boatneck-cormorant-f6f.notion.site/2098a77d96d9801fbe82c9af9bc27840?source=copy_link <br>
+> 하루 브리핑: https://boatneck-cormorant-f6f.notion.site/2158a77d96d980f09ab1c7d5ae6fdbc2?source=copy_link <br>
 ---
 
 ## 💡 문제 정의
@@ -60,7 +59,7 @@
 - 특히 **박물관**은 고궁 방문 전후의 맥락을 보완하고, **전통문화 체험**은 문화적 흥미와 감성 만족을 강화
 
 ### 2. 전략적 상품 설계 제안: KOREA PASS 도입
-> 장거리 개별여행자 대상 **맞춤형 자유 구성 관광 패스 시리즈**
+> ${\textsf{\color{black}장거리 개별여행자 대상 맞춤형 자유 구성 관광 패스 시리즈}}$
 
 | 구성 요소 | 예시 |
 |-----------|------|
