@@ -24,8 +24,11 @@
 ---
 
 ## 🧾 프로젝트 기록 (노션)
-> 공모전 전체 로그: https://boatneck-cormorant-f6f.notion.site/2098a77d96d9801fbe82c9af9bc27840?source=copy_link <br>
-> 하루 브리핑: https://boatneck-cormorant-f6f.notion.site/2158a77d96d980f09ab1c7d5ae6fdbc2?source=copy_link <br>
+> 공모전 전체 로그: <br> 
+> https://boatneck-cormorant-f6f.notion.site/2098a77d96d9801fbe82c9af9bc27840?source=copy_link <br>
+>
+> 하루 브리핑: <br>
+> https://boatneck-cormorant-f6f.notion.site/2158a77d96d980f09ab1c7d5ae6fdbc2?source=copy_link <br>
 ---
 
 ## 💡 문제 정의
